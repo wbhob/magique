@@ -6,14 +6,11 @@
         "typeRoots": [
             "node_modules/@types"
         ],
-        "rootDirs": [
-            "./src",
-            "./test"
-        ],
+        "rootDir": "./src",
         "outDir": "./dist"
     },
     "exclude": [
-        "test",
+        "src/test",
         "node_modules"
     ]
 }

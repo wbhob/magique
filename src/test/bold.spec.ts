@@ -1,6 +1,6 @@
 import { expect } from 'chai';
 
-import { bold } from '../src/bold';
+import { bold } from '../bold';
 
 describe('Bold', () => {
     let str: any;

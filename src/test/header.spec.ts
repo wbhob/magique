@@ -1,6 +1,6 @@
 import { expect } from 'chai';
 
-import { h1, header } from '../src/header';
+import { h1, header } from '../header';
 
 describe('Header', () => {
     let str: any;

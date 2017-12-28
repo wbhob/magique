@@ -1,6 +1,6 @@
 import { expect } from 'chai';
 
-import { italic } from '../src/italic';
+import { italic } from '../italic';
 
 describe('Italic', () => {
     let str: any;

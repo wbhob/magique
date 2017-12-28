@@ -1,6 +1,6 @@
 import { expect } from 'chai';
 
-import { link } from '../src/link';
+import { link } from '../link';
 
 describe('Links', () => {
     let str: any;

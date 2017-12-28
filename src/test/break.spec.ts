@@ -1,6 +1,6 @@
 import { expect } from 'chai';
 
-import { br } from '../src/break';
+import { br } from '../break';
 
 describe('Break', () => {
     it('should only return a break', () => {
