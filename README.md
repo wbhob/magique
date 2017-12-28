@@ -1,5 +1,5 @@
 # Magique
-Magique is a dead-simple, highly-readable way to write HTML in JavaScript. It's particularly designed for templating, so if you find yourself writing a lot of wrapping tags (like <b> and <i>) around strings, you'll find this package useful.
+Magique is a dead-simple, highly-readable way to write HTML in JavaScript. It's particularly designed for templating, so if you find yourself writing a lot of wrapping tags (like `<b>` and `<i>`) around strings, you'll find this package useful.
 
 ## Example
 ```ts
