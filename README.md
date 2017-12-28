@@ -33,11 +33,11 @@ bold('hello');
 ```
 
 ## Supported Tags and Aliases
-| Tag                                | Aliases          | Returns                              | Usage                                          |
-| ---------------------------------- | ---------------- | ------------------------------------ | ---------------------------------------------- |
-| `b`                                | `bold`, `strong` | <strong>str</strong>                 | b(str)                                         |
-| `i`                                | `italic`, `em`   | <em>str</em>                         | i(str)                                         |
-| `a`                                | `link`           | <a>str</a> or <a href="href">str</a> | a(str) OR a(str, href)                         |
-| `br`                               | N/A              | <br />                               | br()                                           |
-| `hX`                               | `header`         | <hX>str</hX>                         | `h(level)(str)` where level is between 1 and 6 |
-| `h1`, `h2`, `h3`, `h4`, `h5`, `h6` | N/A              | <h1>str</h1>                         | `h1(str)`                                      |
+| Tag                                | Aliases          | Returns                                  | Usage                                          |
+| ---------------------------------- | ---------------- | ---------------------------------------- | ---------------------------------------------- |
+| `b`                                | `bold`, `strong` | `<strong>str</strong>`                   | b(str)                                         |
+| `i`                                | `italic`, `em`   | `<em>str</em>`                           | i(str)                                         |
+| `a`                                | `link`           | `<a>str</a>` or `<a href="href">str</a>` | a(str) OR a(str, href)                         |
+| `br`                               | N/A              | `<br />`                                 | br()                                           |
+| `hX`                               | `header`         | `<hX>str</hX>`                           | `h(level)(str)` where level is between 1 and 6 |
+| `h1`, `h2`, `h3`, `h4`, `h5`, `h6` | N/A              | `<h1>str</h1>`                           | `h1(str)`                                      |
