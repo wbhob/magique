@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "sourceMap": true,
+        "declaration": true,
+        "typeRoots": [
+            "node_modules/@types"
+        ],
+        "rootDirs": [
+            "./src",
+            "./test"
+        ],
+        "outDir": "./dist"
+    },
+    "exclude": [
+        "test",
+        "node_modules"
+    ]
+}
