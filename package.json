@@ -1,7 +1,7 @@
 {
-  "name": "key-value",
+  "name": "magique",
   "version": "1.0.0",
-  "description": "A utility for creating a key-value map from an object.",
+  "description": "A utility for creating HTML tags in JavaScript.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "scripts": {
@@ -10,17 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wbhob/key-value.git"
+    "url": "git+https://github.com/wbhob/magique.git"
   },
   "author": "Wilson Hobbs <wilsonhobbs1@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wbhob/key-value/issues"
+    "url": "https://github.com/wbhob/magique/issues"
   },
-  "homepage": "https://github.com/wbhob/key-value#readme",
-  "dependencies": {
-    "is-object": "file:../is-object"
-  },
+  "homepage": "https://github.com/wbhob/magique#readme",
   "devDependencies": {
     "@types/chai": "^4.0.10",
     "@types/mocha": "^2.2.45",
