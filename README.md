@@ -9,6 +9,11 @@ b('hello') // yields <strong>hello</strong>
 i('hello') // yields <em>hello</em>
 ```
 
+## Installation
+```sh
+$ npm install --save magique
+```
+
 ## Usage
 ### TypeScript/ES6
 ```ts
